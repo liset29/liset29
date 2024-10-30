@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Привет! Я Python разработчик
 
-<!--
-**liset29/liset29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Основные технологии:**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  
 
-Here are some ideas to get you started:
+**Базы данных:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Брокеры сообщений:**  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+
+---
+
+### 📍 Местоположение
+
+**Страна:** Россия  
+**Город:** Уфа  
+
+
+
+### 💬 Связь
+
+
+📧 [Почта](79374931315t@gmail.com)
+📧 [Телеграмм](https://t.me/liset29_3)
